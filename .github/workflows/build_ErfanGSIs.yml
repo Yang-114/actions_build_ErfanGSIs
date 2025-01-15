@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
+  ROM_URL: https://www.yhcres.top/d/01-GSI/MIUI%EF%BC%88%E5%B0%8F%E7%B1%B3%EF%BC%89/MIUI13/miui13_cc9p%EF%BC%88SGSI%EF%BC%89%EF%BC%89/miui13_cc9p.zip?sign=4dG9Qeu9bJ48oo2nkUbczKI5KHoFl9w8VESDHqWuCi4=:1736944047
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
